@@ -1,8 +1,9 @@
 {
     "java.project.sourcePaths": [
         "priciples/Liskov_Substitution_Principle/JavaVersion",
+        "priciples/Law_of_Demeter/JavaVersion",
         "priciples/Interface_isolation/JavaVersion",
         "priciples/Dependency_Inversion/JavaVersion",
-        "priciples/Law_of_Demeter/JavaVersion"
+        "BuilderPattern/SingletonPattern/JavaVersion"
     ]
 }
