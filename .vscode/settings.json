@@ -4,6 +4,8 @@
         "priciples/Law_of_Demeter/JavaVersion",
         "priciples/Interface_isolation/JavaVersion",
         "priciples/Dependency_Inversion/JavaVersion",
-        "BuilderPattern/SingletonPattern/JavaVersion"
+        "BuilderPattern/SingletonPattern/JavaVersion",
+        "BuilderPattern/FactoryPattern/CoffeDemo",
+        "Java/BuilderPattern/FactoryPattern/CoffeDemo/before"
     ]
 }
