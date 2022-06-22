@@ -1,11 +1,7 @@
 {
     "java.project.sourcePaths": [
-        "priciples/Liskov_Substitution_Principle/JavaVersion",
-        "priciples/Law_of_Demeter/JavaVersion",
-        "priciples/Interface_isolation/JavaVersion",
-        "priciples/Dependency_Inversion/JavaVersion",
-        "BuilderPattern/SingletonPattern/JavaVersion",
-        "BuilderPattern/FactoryPattern/CoffeDemo",
-        "Java/BuilderPattern/FactoryPattern/CoffeDemo/before"
+        "Java/BuilderPattern/FactoryPattern/CoffeDemo/simplefactory",
+        "Java/BuilderPattern/FactoryPattern/CoffeDemo/before",
+        "Java/BuilderPattern/FactoryPattern/CoffeDemo/Factory"
     ]
 }
