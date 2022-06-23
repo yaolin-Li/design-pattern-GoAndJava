@@ -1,8 +1,4 @@
-package com.builderPattern.FactoryPattern.CoffeDemo.simplefactory;
-
-import com.builderPattern.FactoryPattern.CoffeDemo.before.AmericanCoffe;
-import com.builderPattern.FactoryPattern.CoffeDemo.before.Coffe;
-import com.builderPattern.FactoryPattern.CoffeDemo.before.LatteCoffe;
+package com.design.pattern.builderPattern.FactoryPattern.CoffeDemo.simplefactory;
 
 public class SimpleCoffeeFactory {
 

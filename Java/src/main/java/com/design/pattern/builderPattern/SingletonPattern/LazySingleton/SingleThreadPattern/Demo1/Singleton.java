@@ -1,4 +1,4 @@
-package com.builderPattern.SingletonPattern.LazySingleton.SingleThreadPattern.Demo1;
+package com.design.pattern.builderPattern.SingletonPattern.LazySingleton.SingleThreadPattern.Demo1;
 //懒汉
 public class Singleton {
     private Singleton(){}

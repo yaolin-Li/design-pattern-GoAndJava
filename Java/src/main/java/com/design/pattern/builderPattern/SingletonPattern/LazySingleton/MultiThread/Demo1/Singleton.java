@@ -1,4 +1,4 @@
-package com.builderPattern.SingletonPattern.LazySingleton.MultiThread.Demo1;
+package com.design.pattern.builderPattern.SingletonPattern.LazySingleton.MultiThread.Demo1;
 //加锁饿汉
 public class Singleton {
     private Singleton(){}

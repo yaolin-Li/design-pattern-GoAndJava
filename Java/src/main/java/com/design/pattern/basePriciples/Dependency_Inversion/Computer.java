@@ -1,4 +1,4 @@
-package com.basePriciples.Dependency_Inversion;
+package com.design.pattern.basePriciples.Dependency_Inversion;
 
 public class Computer {
     private AbstractDisk disk;

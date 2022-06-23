@@ -1,4 +1,4 @@
-package com.basePriciples.Liskov_Substitution_Principle;
+package com.design.pattern.basePriciples.Liskov_Substitution_Principle;
 
 public class RectangleDemo {
     public static void main(String[] args) {

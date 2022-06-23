@@ -1,4 +1,4 @@
-package com.builderPattern.SingletonPattern.EagerSingleton.Demo3;
+package com.design.pattern.builderPattern.SingletonPattern.EagerSingleton.Demo3;
 
 /**
  * 饿汉式

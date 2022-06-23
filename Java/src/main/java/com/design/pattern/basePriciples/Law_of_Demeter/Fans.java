@@ -1,4 +1,4 @@
-package com.basePriciples.Law_of_Demeter;
+package com.design.pattern.basePriciples.Law_of_Demeter;
 
 public class Fans {
     private String name;

@@ -1,4 +1,4 @@
-package com.builderPattern.FactoryPattern.CoffeDemo.FactoryMethod;
+package com.design.pattern.builderPattern.FactoryPattern.CoffeDemo.FactoryMethod;
 
 public interface CoffeeFactory {
 

@@ -1,4 +1,4 @@
-package com.basePriciples.Interface_isolation;
+package com.design.pattern.basePriciples.Interface_isolation;
 
 public interface SafetyDoor {
     void antiTheft();

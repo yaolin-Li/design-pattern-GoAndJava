@@ -1,7 +1,5 @@
-package com.builderPattern.FactoryPattern.CoffeDemo.simplefactory;
+package com.design.pattern.builderPattern.FactoryPattern.CoffeDemo.simplefactory;
 
-import com.builderPattern.FactoryPattern.CoffeDemo.before.Coffe;
-import com.builderPattern.FactoryPattern.CoffeDemo.before.CoffeStore;
 
 public class Client {
     public static void main(String[] args) {

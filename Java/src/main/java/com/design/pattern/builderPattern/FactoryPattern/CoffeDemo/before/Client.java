@@ -1,4 +1,4 @@
-package com.builderPattern.FactoryPattern.CoffeDemo.before;
+package com.design.pattern.builderPattern.FactoryPattern.CoffeDemo.before;
 
 public class Client {
     public static void main(String[] args) {

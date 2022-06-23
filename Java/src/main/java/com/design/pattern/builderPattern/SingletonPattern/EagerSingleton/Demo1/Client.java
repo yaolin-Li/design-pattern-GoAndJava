@@ -1,4 +1,4 @@
-package com.builderPattern.SingletonPattern.EagerSingleton.Demo1;
+package com.design.pattern.builderPattern.SingletonPattern.EagerSingleton.Demo1;
 public class Client{
     public static void main(String[] args) {
         EagerSingleton instance1 = EagerSingleton.getInstance();

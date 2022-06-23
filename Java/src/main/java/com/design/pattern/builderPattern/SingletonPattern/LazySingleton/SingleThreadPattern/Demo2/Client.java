@@ -1,4 +1,4 @@
-package com.builderPattern.SingletonPattern.LazySingleton.SingleThreadPattern.Demo2;
+package com.design.pattern.builderPattern.SingletonPattern.LazySingleton.SingleThreadPattern.Demo2;
 
 public class Client {
     public static void main(String[] args) {

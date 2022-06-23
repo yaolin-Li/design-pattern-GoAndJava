@@ -1,4 +1,4 @@
-package com.basePriciples.Open_closed_principle;
+package com.design.pattern.basePriciples.Open_closed_principle;
 
 public class DefaultSkin extends AbstractSkin{
 

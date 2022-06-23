@@ -1,4 +1,4 @@
-package com.basePriciples.Interface_isolation;
+package com.design.pattern.basePriciples.Interface_isolation;
 
 public class Client {
     public static void main(String[] args) {

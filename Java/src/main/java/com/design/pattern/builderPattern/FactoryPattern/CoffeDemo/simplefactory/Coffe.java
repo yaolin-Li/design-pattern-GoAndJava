@@ -1,4 +1,4 @@
-package com.builderPattern.FactoryPattern.CoffeDemo.simplefactory;
+package com.design.pattern.builderPattern.FactoryPattern.CoffeDemo.simplefactory;
 
 public abstract class Coffe {
 
